@@ -9,6 +9,7 @@ const current1El = document.querySelector(".current--1");
 const player0El = document.querySelector('.player--0');
 const player1El = document.querySelector('.player--1');
 
+
 diceEl.classList.add("hidden");
 const scores = [0, 0];
 let currentScore = 0;
